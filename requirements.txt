@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision>=0.15.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+
+# torch → core PyTorch library for building and training the CNN
+# torchvision → datasets (Fashion-MNIST) and transforms
+# matplotlib → plotting predictions
+# numpy → underlying array operations, used by PyTorch internally
