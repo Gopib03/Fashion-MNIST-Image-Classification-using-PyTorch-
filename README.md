@@ -12,7 +12,7 @@ It is designed as an **entry-level deep learning project** for beginners.
 - Training and evaluation loop included
 - Visual predictions with matplotlib
 - Achieves ~91% test accuracy
-
+- 
 ## Dataset
 Fashion-MNIST contains 70,000 grayscale images of size 28×28 across 10 classes:
 
